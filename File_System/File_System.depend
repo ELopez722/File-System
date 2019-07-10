@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528155466 source:c:\users\vlope\desktop\east_bay\code\file_system\main_driver.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<string>
+	<fstream>
+
